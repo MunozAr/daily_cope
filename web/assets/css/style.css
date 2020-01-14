@@ -120,6 +120,9 @@ body{
 .columright{
     border-left: 2px solid black
 }
+.columleft{
+    border-right: 2px solid black
+}
 .texto p{
     color: black;
     font-family: 'gloucester_extracondensed';
@@ -237,4 +240,56 @@ body{
 }
 .espacioTips{
     margin-top: 20px;
+}
+/*3ra página*/
+.tituloTusu{
+    font-family: 'gunplay_regular';
+    font-size: 131px;
+    color: black;
+    margin: 0;
+    line-height: 145px;
+}
+.tituloTusu2{
+    font-family: 'gunplay_regular';
+    font-size: 55px;
+    color: black;
+    margin: 0;
+}
+.lineBottomPagina2{
+    border-bottom: 2px solid black;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+.adobe p{
+    color: black;
+    font-size: 96px;
+    line-height: 105px;
+    font-family: 'gloucester_extracondensed';
+}
+.abobetexto p{
+    color: black;
+    font-family: 'gloucester_extracondensed';
+    font-weight: 400;
+    font-size: 23px; 
+}
+.quipu{
+    color: black;
+    font-size: 125px;
+    line-height: 105px;
+    font-family: 'gloucester_extracondensed';
+}
+
+.espaceQuipu{
+    margin-bottom: 25px;
+}
+
+.lineRight{
+    border-right: 2px solid black;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.npquipu{
+    padding-left: 8px;
+    padding-right: 8px;
 }
