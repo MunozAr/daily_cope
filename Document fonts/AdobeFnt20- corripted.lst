@@ -1,0 +1,114 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/armandoespinoza/Downloads/PERIODICO COPE/Document fonts/AdobeFnt20.lst
+FileLength:2595
+FileModTime:600663822
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/armandoespinoza/Downloads/PERIODICO COPE/Document fonts/.DS_Store
+FileLength:6148
+FileModTime:600663764
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:OldEnglishTextMT
+FamilyName:Old English Text MT
+StyleName:Regular
+MenuName:Old English Text MT
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Old English Text MT
+WritingScript:Roman
+OutlineFileName:/Users/armandoespinoza/Downloads/PERIODICO COPE/Document fonts/OLDENGL.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:93068
+FileModTime:600636300
+NameArray:0,Mac,4,Old English Text MT
+NameArray:0,Win,1,Old English Text MT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Gunplay-Regular
+FamilyName:Gunplay
+StyleName:Regular
+MenuName:Gunplay
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Gunplay-Regular
+WritingScript:Roman
+OutlineFileName:/Users/armandoespinoza/Downloads/PERIODICO COPE/Document fonts/gunplay rg.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:57212
+FileModTime:600636298
+NameArray:0,Mac,4,Gunplay-Regular
+NameArray:0,Win,1,Gunplay
+NameArray:0,Win,16,Gunplay
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:GloucesterMT-ExtraCondensed
+FamilyName:Gloucester MT Extra Condensed
+StyleName:Regular
+MenuName:Gloucester MT Extra Condensed
+StyleBits:0
+WeightClass:400
+WidthClass:2
+AngleClass:0
+FullName:Gloucester MT Extra Condensed
+WritingScript:Roman
+OutlineFileName:/Users/armandoespinoza/Downloads/PERIODICO COPE/Document fonts/GLECB.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72676
+FileModTime:600636298
+NameArray:0,Mac,4,Gloucester MT Extra Condensed
+NameArray:0,Win,1,Gloucester MT Extra Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BigJohn
+FamilyName:Big John
+StyleName:Regular
+MenuName:Big John
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Big John
+WritingScript:Roman
+OutlineFileName:/Users/armandoespinoza/Downloads/PERIODICO COPE/Document fonts/BIG JOHN.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:10684
+FileModTime:600636298
+NameArray:0,Mac,4,Big John
+NameArray:0,Win,1,Big John
+%EndFont
+

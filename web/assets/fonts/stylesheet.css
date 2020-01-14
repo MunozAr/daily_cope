@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'oldenglish_textmt';
+    src: url('OldEnglishTextMT.woff2') format('woff2'),
+        url('OldEnglishTextMT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'gloucester_extracondensed';
+    src: url('GloucesterMT-ExtraCondensed.woff2') format('woff2'),
+        url('GloucesterMT-ExtraCondensed.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'bigjhon_regular';
+    src: url('big_john-webfont.woff2') format('woff2'),
+         url('big_john-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'gunplay_regular';
+    src: url('gunplay_rg-webfont.woff2') format('woff2'),
+         url('gunplay_rg-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
